@@ -1,0 +1,4 @@
+type: generic
+setup:
+  - touch /home/appuser/workspace/jataka_was_here.txt
+  - echo "Config Loaded" > /home/appuser/workspace/status.log
